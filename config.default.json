@@ -1,0 +1,12 @@
+{
+	"version": "1.0.0.0",
+	
+	"pastebin": {
+		"apikey":	"insert-giant-guid-thing-here",
+		"user":		"username",
+		"pass":		"P@$$W0RD",
+		
+		"epg":		"paste-ID-for-EPG",
+		"m3u8":		"paste-ID-for-M3U8"
+	}
+}
