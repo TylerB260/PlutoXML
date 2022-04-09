@@ -7,7 +7,7 @@
     "better-pastebin": "^0.4.1",
     "fs-extra": "^8.0.1",
     "jsontoxml": "^1.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "request": "^2.88.0"
   },
   "devDependencies": {},
